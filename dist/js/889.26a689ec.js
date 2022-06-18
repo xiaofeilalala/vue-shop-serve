@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_shop"]=self["webpackChunkvue_shop"]||[]).push([[889],{5139:function(e,n,u){u.r(n),u.d(n,{default:function(){return o}});var l=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v(" Welcome Index ")])},t=[],r={},s=r,c=u(1001),f=(0,c.Z)(s,l,t,!1,null,null,null),o=f.exports}}]);
+//# sourceMappingURL=889.26a689ec.js.map
